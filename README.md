@@ -11,7 +11,7 @@
 ---
 
 ```text
-┌──[anon@void]─[~/profile]
+┌──[jrtics@void]─[~/profile]
 └──╼ $ cat identity.txt
 
   name      : ████████████
@@ -26,14 +26,13 @@
 ```python
 class Anon:
     def __init__(self):
-        self.identity   = None            # intentionally empty
-        self.focus      = ["AI/ML", "LLM agents", "security research"]
-        self.mindset    = "learn in public, leak nothing personal"
-        self.ethics     = "white-hat only"
+        self.identity   = None           
+        self.focus      = ["AI/ML", "Robotics"]
+        self.ethics     = "black-hat only"
 
     def mission(self):
         while True:
-            learn(); build(); break_it_ethically(); repeat()
+            learn(); build(); repeat()
 ```
 
 ## `> ls ~/arsenal`
@@ -63,7 +62,6 @@ class Anon:
 | 🛡️ Adversarial ML / prompt injection | `[■■■■■□□□□□]` |
 | 🔍 CTFs & wargames             | `[■■■■■■□□□□]` |
 | ⚙️ Reverse engineering         | `[■■■□□□□□□□]` |
-| 🦀 Systems programming (Rust)  | `[■■■■□□□□□□]` |
 
 ## `> git log --pinned`
 
@@ -86,12 +84,6 @@ class Anon:
 
 </div>
 
-## `> echo $PHILOSOPHY`
-
-```text
-> "Privacy is not secrecy. It's the power to choose what you reveal."
-> Code speaks. Identity doesn't need to.
-```
 
 ## `> contact --secure`
 
