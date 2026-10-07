@@ -1,28 +1,24 @@
-<!-- EXPLOIT BANNER ANIMATION -->
+<!-- RAINBOW TOP BORDER -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a473-11eb-8f2c-cd7808604103.gif" width="100%" height="4px" />
+
+<br />
+
+<!-- GLITCH / CYBERPUNK HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%23!%2Fbin%2Fbash+-c+%22INJECTING_PAYLOAD...%22;OVERRIDING_SECURITY_PROTOCOLS...;SYSTEM_COMPROMISED%3A+ROBOTICS_+ROS2_+SOFTWARE_+WEBDEV;ROOT_ACCESS_GRANTED." alt="Hack Exploit Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=26&pause=800&color=00FF66&center=true&vCenter=true&width=750&height=50&lines=%23!%2Fsystem%2Fkernel+-c+%22NEURAL_INTERFACE_ACTIVE%22;GHOST_IN_THE_SHELL_%2F%2F_NODE_0x7F;DOMAINS%3A+ROBOTICS_+ROS2_+SOFTWARE_+WEBDEV;SYSTEM_COMPROMISED..._ACCESS_GRANTED." alt="Glitch Cyberpunk Header" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-db036080-a473-11eb-8f2c-cd7808604103.gif" width="100%" height="4px" />
 </div>
 
 <br />
 
-<!-- EXPLOIT INIT SCRIPT -->
+<!-- TERMINAL PAYLOAD STATUS -->
 ```bash
-#!/bin/bash
-# -----------------------------------------------------------------------
-# TARGET IDENTIFIER : [REDACTED_NODE_0x7F]
-# SECURITY CLEARANCE: LEVEL 5 (ROOT)
-# STACK DEPLOYMENT  : ROS2 // ROBOTICS // SOFTWARE // FULL-STACK WEB
-# -----------------------------------------------------------------------
-
-set -e
-export ARCH="x86_64-linux-gnu"
-export PROTOCOLS=("ROS2_HUMBLE" "C++20" "PYTHON3" "REACT_TAILWIND" "POSTGRES")
-
-function execute_exploit() {
-    echo "[+] Scanning local ROS2 domain ID: $ROS_DOMAIN_ID..."
-    echo "[+] Hijacking hardware endpoints: /cmd_vel, /camera/image_raw, /scan"
-    echo "[+] Injecting WebSockets & REST APIs for cloud robot teleop..."
-    echo "[!] PAYLOAD INJECTED SUCCESSFULLY."
-}
-
-execute_exploit
+┌─────────────────────────────────────────────────────────────────────────────┐
+│ ☣️ EXPLOIT STATUS : INJECTED & ACTIVE                                       │
+│ 🤖 SYSTEM CORE     : ROS 2 HUMBLE // AUTONOMOUS NAVIGATION // COSTMAPS      │
+│ 💻 SOFTWARE STACK  : C++20 // PYTHON3 // EMBEDDED C // LINUX KERNEL        │
+│ 🌐 WEB INTERFACE   : REACT // NEXT.JS // TAILWIND // SUPABASE              │
+└─────────────────────────────────────────────────────────────────────────────┘
