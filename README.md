@@ -71,18 +71,6 @@ class Anon:
 - 🕵️ `shadow-lab` — notes & writeups from CTFs / labs
 - 🧪 `payload-playground` — sandboxed security learning scripts
 
-## `> ./stats --anon`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Jrtics&show_icons=true&theme=base16&bg_color=0d1117&title_color=00ff9c&icon_color=00b3ff&text_color=c9d1d9&border_color=00ff9c&hide_border=false" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jrtics&layout=compact&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=00ff9c" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jrtics&background=0d1117&ring=00ff9c&fire=00b3ff&currStreakLabel=00ff9c&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=00ff9c33" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Jrtics&theme=matrix&no-frame=true&row=1&column=6" />
-
-</div>
 
 
 ## `> contact --secure`
